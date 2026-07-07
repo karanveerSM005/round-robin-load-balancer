@@ -4,6 +4,12 @@ A Java distributed systems project developed as a university coursework assignme
 
 > **Academic project:** This repository contains a university implementation created to demonstrate distributed systems concepts. It is not intended for production deployment.
 
+## Author
+
+Karanveer Singh Malhi
+[LinkedIn](https://www.linkedin.com/in/karanveer-singh-malhi-750793311/)
+
+
 ## Features
 
 * Client job submission
@@ -36,8 +42,3 @@ round-robin-load-balancer/
 │   └── src/
 ├── README.md
 └── .gitignore
-
-## Author
-
-Karanveer Singh Malhi
-[LinkedIn](https://www.linkedin.com/in/karanveer-singh-malhi-750793311/)
