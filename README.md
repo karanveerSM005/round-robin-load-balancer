@@ -36,3 +36,8 @@ round-robin-load-balancer/
 │   └── src/
 ├── README.md
 └── .gitignore
+
+## Author
+
+Karanveer Singh Malhi
+[LinkedIn](https://www.linkedin.com/in/karanveer-singh-malhi-750793311/)
